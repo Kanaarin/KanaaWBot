@@ -25,7 +25,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "GuruBot~8fD04dgi"
     },
     "MODE": {
       "description": "mode public or private",
@@ -50,12 +50,12 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
@@ -65,7 +65,7 @@
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
       "required": false,
-      "value": ""
+      "value": "bE8JqVPnm3zk5VPGfsuUBJ7N"
     }
     },
     "buildpacks": [
