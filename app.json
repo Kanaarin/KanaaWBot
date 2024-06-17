@@ -49,12 +49,12 @@
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
-      "required": false,
+      "required": true,
       "value": "false"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
-      "required": false,
+      "required": true,
       "value": "false"
     },
     "antidelete": {
@@ -64,7 +64,7 @@
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
-      "required": false,
+      "required": true,
       "value": ""
     }
     },
