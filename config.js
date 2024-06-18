@@ -23,9 +23,9 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['6285711880342', '32460248586']
-global.prems = ['6285711880342', '32460248586', '919398758484']
-global.allowed = ['6285711880342', '32460248586', '19152999993']
+global.mods = ['6285711880342']
+global.prems = ['6285711880342']
+global.allowed = ['6285711880342']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -73,13 +73,13 @@ global.botname = process.env.BOTNAME
 global.premium = 'true'
 global.packname = 'Kanaa┃ᴮᴼᵀ'
 global.author = 'Tsumiki┃ˢᵉⁿˢᵉⁱ'
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
-global.dygp = 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT'
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
+global.menuvid = ''//'https://i.imgur.com/AjDzGgG.mp4'
+global.igfg = ''//'▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
+global.dygp = ''//'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp'
+global.fgsc = ''//'https://github.com/Guru322/GURU-BOT'
+global.fgyt = ''//'https://youtube.com/@Asliguru'
+global.fgpyp = ''//'https://youtube.com/@Asliguru'
+global.fglog = ''//'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
