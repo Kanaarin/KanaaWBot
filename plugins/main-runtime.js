@@ -1,7 +1,7 @@
 import displayLoadingScreen from '../lib/loading.js'
 
 let handler = async (m, { conn, args, usedPrefix, command }) => {
-  let pp = 'https://i.pinimg.com/736x/eb/a7/25/eba725b9c8df5d9b199e950694f18aaf.jpg'
+  let pp = 'https://i.pinimg.com/736x/02/fb/77/02fb77cc5b3850a627a5cc4da8b683c6.jpg'
   await displayLoadingScreen(conn, m.chat)
   let _muptime
   if (process.send) {
@@ -29,7 +29,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
         title: 'Kanaa-ʙᴏᴛ',
         body: 'R U N T I M E',
         thumbnailUrl: pp,
-        sourceUrl: 'https://guruapi.tech',
+        sourceUrl: 'https://github.com/Kanaarin',
         mediaType: 1,
         renderLargerThumbnail: false,
       },

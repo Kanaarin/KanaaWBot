@@ -65,7 +65,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *GURU*
+  *KANAA*
 ▢ Instagram :
   • https://instagram.com/itzryoosan
 ▢ GitHub :
