@@ -364,7 +364,7 @@ export async function handler(chatUpdate) {
         }
         m.isCommand = true
         let xp = 'exp' in plugin ? parseInt(plugin.exp) : 17 // XP Earning per command
-        if (xp > 200) m.reply('cheater')
+        if (xp > 200) m.reply('Cheater')
         else m.exp += xp
         if (
           !isPrems &&

@@ -67,13 +67,13 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 *≡ OWNER*
   *GURU*
 ▢ Instagram :
-  • https://instagram.com/asli_guru69
+  • https://instagram.com/itzkuroo01
 ▢ GitHub :
-  • https://github.com/Guru322
+  • https://github.com/Kanaarin
 ▢ Telegram : 
-  • t.me/i_want_to_be_isekaied (GURU) 
+  • t.me/ItzKuroo
 ▢ YouTube : 
-  • https://youtube.com/@Asliguru
+  • Belum Ada Channel Youtube
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
