@@ -67,7 +67,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 *≡ OWNER*
   *GURU*
 ▢ Instagram :
-  • https://instagram.com/itzkuroo01
+  • https://instagram.com/itzryoosan
 ▢ GitHub :
   • https://github.com/Kanaarin
 ▢ Telegram : 
