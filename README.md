@@ -25,7 +25,7 @@ Simple Multi Device whatsapp bot.
 
 - Not For Sale
 - If A plugin's code is obfuscated , You don't have permission to edit it in any form 
-- Don't Forget to Give Credits If you are using or Reuploading My Plugins/files
+- Don't Forget to Give Credits If you are using or Reuploading My Plugins/files @Guru
 - Have A Good Day Ahead
 
 
