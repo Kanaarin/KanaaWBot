@@ -15,7 +15,7 @@
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "Kanaa-Bot"
+      "value": "Kuromii"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",

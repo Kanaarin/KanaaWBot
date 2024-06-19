@@ -8,7 +8,7 @@ let handler = async (m, { conn }) => {
   conn.sendFile(m.chat, av, 'audio.mp3', null, m, true, { type: 'audioMessage', ptt: true })
 }
 
-handler.customPrefix = /^(bot|kanaa)$/i
+handler.customPrefix = /^(bot|kuromii)$/i
 handler.command = new RegExp()
 
 export default handler

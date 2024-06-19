@@ -2,17 +2,12 @@ let handler = async m =>
   m.reply(
     `
 
-≡  *Kanaa  ┃ ᴮᴼᵀ*   GROUPS
+≡  *Kuromii ┃ ᴮᴼᵀ*   GROUPS
 
 ─────────────
-▢ Join public bot group and support
+▢ Join public group
 https://chat.whatsapp.com/HfauZ5tLqPt8c9fp6aJ7NO
 
-─────────────
-≡ Disabled links? enter here! 
-
-▢ Group WhatsApp 
-https://chat.whatsapp.com/HfauZ5tLqPt8c9fp6aJ7NO
 ─────────────
 ▢ *Owner Telegram*
  https://t.me/@itzKuroo

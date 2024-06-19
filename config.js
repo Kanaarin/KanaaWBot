@@ -71,7 +71,7 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = 'Kanaa┃ᴮᴼᵀ'
+global.packname = 'Kuromii┃ᴮᴼᵀ'
 global.author = 'Tsumiki┃ˢᵉⁿˢᵉⁱ'
 global.menuvid = ''//'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = ''//'▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'

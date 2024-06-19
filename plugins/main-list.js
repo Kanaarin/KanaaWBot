@@ -69,7 +69,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
    ⎪⌲👑 _${usedPrefix}groups_
    ⎪⌲👑 _${usedPrefix}blocklist_
    ⎪⌲👑 _${usedPrefix}listprem_
-   ⎪⌲👑    Guru
+   ⎪⌲👑    Kuromii
    ┗━━━ʕ•㉨•ʔ━━━┛` // Your bot menu message here
       break
     case 'ownermenu':

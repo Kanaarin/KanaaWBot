@@ -31,7 +31,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
       mentionedJid: [m.sender],
       externalAdReply: {
         title: 'I AM ALIVE',
-        body: 'KANAA BOT',
+        body: 'KUROMII',
         thumbnailUrl: img,
         sourceUrl: 'https://chat.whatsapp.com/HfauZ5tLqPt8c9fp6aJ7NO',
         mediaType: 1,

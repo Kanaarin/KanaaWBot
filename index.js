@@ -7,7 +7,7 @@ import path from 'path'
 import { fileURLToPath } from 'url';
 
 figlet(
-  'KANAA BOT',
+  'Kuromii',
   {
     font: 'Ghost',
     horizontalLayout: 'default',

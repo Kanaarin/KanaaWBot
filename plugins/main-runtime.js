@@ -26,7 +26,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
       },
       forwardingScore: 999,
       externalAdReply: {
-        title: 'Kanaa-ʙᴏᴛ',
+        title: 'Kuromii-ʙᴏᴛ',
         body: 'R U N T I M E',
         thumbnailUrl: pp,
         sourceUrl: 'https://github.com/Kanaarin',

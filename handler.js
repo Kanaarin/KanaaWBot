@@ -526,8 +526,8 @@ export async function participantsUpdate({ id, participants, action }) {
             ppgp = await this.profilePictureUrl(id, 'image')
           } catch (error) {
             console.error(`Error retrieving profile picture: ${error}`)
-            pp = ''//'https://i.imgur.com/8B4jwGq.jpeg' // Assign default image URL
-            ppgp = ''//'https://i.imgur.com/8B4jwGq.jpeg' // Assign default image URL
+            pp = 'https://i.pinimg.com/736x/02/fb/77/02fb77cc5b3850a627a5cc4da8b683c6.jpg' // Assign default image URL
+            ppgp = 'https://i.pinimg.com/736x/02/fb/77/02fb77cc5b3850a627a5cc4da8b683c6.jpg' // Assign default image URL
           } finally {
             let text = (chat.sWelcome || this.welcome || conn.welcome || 'Welcome, @user')
               .replace('@group', await this.getName(id))
@@ -556,7 +556,7 @@ export async function participantsUpdate({ id, participants, action }) {
                 contextInfo: {
                   mentionedJid: [user],
                   externalAdReply: {
-                    title: 'Kanaa-Bots',
+                    title: 'Kuromii',
                     body: 'welcome to Group',
                     thumbnailUrl: welcomeApiUrl,
                     sourceUrl: 'https://chat.whatsapp.com/HfauZ5tLqPt8c9fp6aJ7NO',
@@ -583,8 +583,8 @@ export async function participantsUpdate({ id, participants, action }) {
             ppgp = await this.profilePictureUrl(id, 'image')
           } catch (error) {
             console.error(`Error retrieving profile picture: ${error}`)
-            pp = ''//'https://i.imgur.com/8B4jwGq.jpeg' // Assign default image URL
-            ppgp = ''//'https://i.imgur.com/8B4jwGq.jpeg' // Assign default image URL
+            pp = 'https://i.pinimg.com/736x/02/fb/77/02fb77cc5b3850a627a5cc4da8b683c6.jpg' // Assign default image URL
+            ppgp = 'https://i.pinimg.com/736x/02/fb/77/02fb77cc5b3850a627a5cc4da8b683c6.jpg' // Assign default image URL
           } finally {
             let text = (chat.sBye || this.bye || conn.bye || 'HELLO, @user').replace(
               '@user',
@@ -613,7 +613,7 @@ export async function participantsUpdate({ id, participants, action }) {
                 contextInfo: {
                   mentionedJid: [user],
                   externalAdReply: {
-                    title: 'Kanaa-Bots',
+                    title: 'Kuromii',
                     body: 'Goodbye from  Group',
                     thumbnailUrl: leaveApiUrl,
                     sourceUrl: 'https://chat.whatsapp.com/HfauZ5tLqPt8c9fp6aJ7NO',
